@@ -1,6 +1,7 @@
-.basic-grid {
+.basic-grid 
+{
       display: grid;
-      gap: 3rem;
+      gap: 1rem;
   
       /* 1 too skinny, too much code */
       /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
@@ -12,5 +13,5 @@
       /* grid-template-columns: repeat(12, minmax(240px, 1fr)); */
     
       /* 4 final */
-      grid-template-columns: repeat(auto-fill, minmax(200px, 0fr));
-   }
+      grid-template-columns: repeat(auto-fill, minmax(150px, 0fr));
+}
