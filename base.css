@@ -8,8 +8,8 @@ body {
 
 @font-face
 {
-   font-family: 'Bookmania', sans-serif;
-   src: url('./Bookmania-Regular.otf') format("opentype");
+   font-family: 'Bookmania';
+   src: url('Bookmania-Regular.otf') format('opentype');
    font-style: italic;
 }
 
