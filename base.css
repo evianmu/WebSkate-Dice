@@ -4,6 +4,7 @@
 body {
     background: #fff;
     font-family: 'bookmania', sans-serif;
+    src: url('./Bookmania\ Regular.otf');
     font-style: italic;
     color: black;
 }
