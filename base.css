@@ -59,6 +59,10 @@ body {
     padding: 0;
     font-family: 'Bookmania-Regular';
     src: url('Bookmania-Regular.ttf') format('truetype');
+    src: url('Bookmania-Regular.woff') format('woff');
+    src: url('Bookmania-Regular.woff2') format('woff2');
+    src: url('Bookmania-Regular.svg') format('svg');
+    src: url('Bookmania-Regular.eot') format('eot');
     text-align: center;
  }
 
