@@ -9,7 +9,7 @@ body {
 @font-face
 {
    font-family: 'Bookmania-Regular';
-   src: url('Bookmania-Regular.otf') format('opentype');
+   src: url('Bookmania-Regular.ttf') format('truetype');
    font-style: italic;
 }
 
