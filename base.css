@@ -53,6 +53,16 @@ body {
     margin-right: auto;
  }
 
+ @font-face
+ {
+   font-family: 'Bookmania-Regular';
+    src: url('Bookmania-Regular.ttf') format('truetype');
+    src: url('Bookmania-Regular.woff') format('woff');
+    src: url('Bookmania-Regular.woff2') format('woff2');
+    src: url('Bookmania-Regular.svg') format('svg');
+    src: url('Bookmania-Regular.eot') format('eot');
+ }
+ 
  *
  {
     margin: 6px;
